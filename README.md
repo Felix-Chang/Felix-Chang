@@ -1,4 +1,4 @@
-## About me:
+## About me
 
 CS '29 @ UF | Passionate about building products, solving problems, and learning through hands-on projects and hackathons.
 
