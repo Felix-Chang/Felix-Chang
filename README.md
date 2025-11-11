@@ -1,4 +1,4 @@
-<h3 align="left"> About me</h3>
+## About me:
 
 CS '29 @ UF | Passionate about building products, solving problems, and learning through hands-on projects and hackathons.
 
