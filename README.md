@@ -1,11 +1,11 @@
-## About me
+<h3 align="left">About me</h3>
 
 Computer Science student at Univerisity of Florida. Passionate about building products, solving problems, and learning through hands-on projects and hackathons.
 
-## 🔗 Connect With Me
+<h3 align="left">🔗 Connect with me</h3>
 <a href="https://www.linkedin.com/in/felix-chang-569591282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixchang" height="30" width="40" /></a>
 
-## Languages and Tools
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
