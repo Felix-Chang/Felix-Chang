@@ -3,7 +3,7 @@
 CS '29 @ UF | Passionate about building products, solving problems, and learning through hands-on projects and hackathons.
 
 <h2 align="left">🔗 Connect with me</h2>
-<a href="https://www.linkedin.com/in/felix-chang-569591282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixchang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felix-chang-569591282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixchang" height="30" width="40"/>
 
 <h2 align="left">💻 Languages and Tools</h2>
 <p align="left">
